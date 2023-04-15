@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\bin\Debug\Semafor.exe
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\bin\Debug\Semafor.pdb
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.exe
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.pdb
+C:\Users\user\Desktop\proiect al\proiect_final_chess\Semafor\Semafor\obj\Debug\Semafor.Form2.resources
